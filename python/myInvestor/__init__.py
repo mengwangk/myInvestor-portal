@@ -1,0 +1,1 @@
+from .myInvestor import app
